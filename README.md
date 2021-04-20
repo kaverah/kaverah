@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaverah
+- 👋 Hi, I’m @kaverah, Vinícius Cruz
 - 👀 I’m interested in learn programming
 - 🌱 I’m currently learning programming with Python
 - 💞️ I’m looking to collaborate being helpful with other codes and the programmer community
